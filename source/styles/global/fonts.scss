@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'PT_Root_UI';
+    src: local('PT-Root-UI_Bold'), local('PT-Root-UI_Bold'),
+        url('../fonts/PT-Root-UI_Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT_Root_UI';
+    src: local('PT-Root-UI_Light'), local('PT-Root-UI_Light'),
+        url('../fonts/PT-Root-UI_Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT_Root_UI';
+    src: local('PT-Root-UI_Medium'), local('PT-Root-UI_Medium'),
+        url('../fonts/PT-Root-UI_Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT_Root_UI';
+    src: local('PT-Root-UI_Regular'), local('PT-Root-UI_Regular'),
+        url('../fonts/PT-Root-UI_Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Arial';
+    src: local('Arial'), local('Arial'),
+        url('../fonts/Arial.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PTSans';
+    src: local('PTSans'), local('PTSans'),
+        url('../fonts/PTSans.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
